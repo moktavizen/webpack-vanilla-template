@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "Vanilla HTML/CSS/JS starter template for Webpack",
   "keywords": [],
-  "homepage": "https://github.com/moktavizen/restaurant#readme",
+  "homepage": "https://github.com/moktavizen/webpack-vanilla-template",
   "bugs": {
-    "url": "https://github.com/moktavizen/restaurant/issues"
+    "url": "https://github.com/moktavizen/webpack-vanilla-template/issues"
   },
   "license": "ISC",
-  "author": "",
+  "author": "moktavizen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moktavizen/restaurant.git"
+    "url": "git+https://github.com/moktavizen/webpack-vanilla-template.git"
   },
   "type": "module",
   "main": "index.js",
